@@ -21,3 +21,4 @@ return [0, 1].
 
 - How the dict(dictionaries) work.
 - How to use `enumerate` when looping through dictionaries
+- How to do the python unit test
